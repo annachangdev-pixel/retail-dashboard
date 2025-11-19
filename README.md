@@ -1,4 +1,4 @@
-📊 Retail Sales Dashboard – Python, Plotly & Streamlit
+Retail Sales Dashboard – Python, Plotly & Streamlit
 Overview
 
 This project analyses 500+ retail sales records and presents key insights through an interactive dashboard built with Python, Plotly, and Streamlit.
@@ -16,7 +16,7 @@ Visualisation with Plotly
 
 Interactive dashboard development (Streamlit)
 
-📁 Dataset
+ Dataset
 
 The dataset consists of retail sales records generated for analysis purposes, containing the following fields:
 
@@ -33,7 +33,7 @@ Quantity – Units sold
 Region – Sales region
 
 
-🔧 Tools & Libraries
+Tools & Libraries
 
 Python
 
@@ -45,7 +45,7 @@ Streamlit
 
 Google Colab
 
-📈 Key Insights
+Key Insights
 1. Revenue Over Time
 
 A line chart showing changes in daily revenue and overall trend.
@@ -62,7 +62,7 @@ Identifies the highest-revenue products.
 
 Shows which geographic regions contribute most to total revenue.
 
-📊 KPIs
+KPIs
 
 Total Revenue
 
@@ -72,7 +72,7 @@ Total Quantity Sold
 
 These metrics provide a quick snapshot of business performance.
 
-🖥️ Streamlit Dashboard
+Streamlit Dashboard
 
 The interactive dashboard includes:
 
