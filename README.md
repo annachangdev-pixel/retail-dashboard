@@ -83,3 +83,26 @@ Time-series analysis
 Category and regional breakdowns
 
 Product performance insights
+🚀 How to Run the Project
+
+Clone the repository
+
+Install required libraries
+
+Run Jupyter Notebook / Colab for EDA
+
+Launch Streamlit app
+
+💡 Purpose of the Project
+
+This project demonstrates practical Data Analyst and Data Scientist skills relevant to real business environments, aligned with roles involving:
+
+Reporting
+
+Sales analytics
+
+KPI dashboards
+
+Business intelligence
+
+Python-based automation
