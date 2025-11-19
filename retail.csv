@@ -1,0 +1,501 @@
+Date,Product,Category,Revenue,Quantity,Region
+2023-02-21,Juice,Drinks,398,15,East
+2023-03-02,Milk,Dairy,70,39,South
+2023-03-28,Bread,Bakery,380,11,West
+2023-01-24,Shampoo,Personal Care,180,22,North
+2023-03-29,Tea,Drinks,463,38,South
+2023-02-02,Shampoo,Personal Care,363,22,North
+2023-02-18,Cereal,Grocery,108,42,West
+2023-02-24,Bread,Bakery,293,3,North
+2023-01-07,Bread,Bakery,70,9,East
+2023-01-04,Tea,Drinks,138,14,South
+2023-01-09,Chips,Snacks,395,2,West
+2023-02-13,Juice,Drinks,313,47,East
+2023-02-05,Coffee,Drinks,99,40,West
+2023-01-06,Tea,Drinks,103,42,West
+2023-03-04,Soap,Personal Care,451,26,West
+2023-03-15,Tea,Drinks,495,36,South
+2023-03-19,Milk,Dairy,264,40,North
+2023-02-22,Tea,Drinks,329,26,North
+2023-01-29,Cereal,Grocery,64,45,North
+2023-03-12,Cereal,Grocery,58,24,North
+2023-03-29,Milk,Dairy,112,11,East
+2023-01-08,Coffee,Drinks,212,35,North
+2023-02-10,Shampoo,Personal Care,77,7,North
+2023-01-12,Milk,Dairy,467,33,West
+2023-01-23,Juice,Drinks,111,24,North
+2023-02-13,Bread,Bakery,409,22,East
+2023-03-06,Bread,Bakery,276,37,East
+2023-01-01,Bread,Bakery,54,26,East
+2023-01-27,Juice,Drinks,442,15,East
+2023-02-11,Chips,Snacks,429,13,East
+2023-02-21,Juice,Drinks,145,4,South
+2023-01-23,Shampoo,Personal Care,280,45,East
+2023-01-13,Cake,Bakery,209,7,East
+2023-03-27,Bread,Bakery,333,2,South
+2023-01-06,Cereal,Grocery,333,28,West
+2023-01-30,Cake,Bakery,495,11,West
+2023-03-30,Chips,Snacks,280,33,North
+2023-01-27,Cereal,Grocery,495,13,North
+2023-03-11,Bread,Bakery,460,9,South
+2023-02-20,Shampoo,Personal Care,283,44,West
+2023-02-01,Soap,Personal Care,145,24,North
+2023-03-03,Cake,Bakery,491,12,South
+2023-01-02,Juice,Drinks,436,49,North
+2023-02-25,Coffee,Drinks,130,49,South
+2023-02-23,Tea,Drinks,392,37,West
+2023-01-01,Coffee,Drinks,452,2,North
+2023-02-01,Chips,Snacks,247,32,East
+2023-02-24,Cake,Bakery,252,17,East
+2023-01-24,Soap,Personal Care,374,34,South
+2023-01-11,Soap,Personal Care,289,16,North
+2023-02-28,Cereal,Grocery,375,16,North
+2023-01-20,Bread,Bakery,301,36,East
+2023-03-08,Chips,Snacks,196,20,West
+2023-02-21,Juice,Drinks,466,40,West
+2023-03-23,Juice,Drinks,409,1,East
+2023-03-30,Cereal,Grocery,483,23,East
+2023-01-07,Chips,Snacks,301,16,South
+2023-03-01,Cereal,Grocery,418,2,North
+2023-02-06,Shampoo,Personal Care,209,9,North
+2023-01-19,Bread,Bakery,353,16,East
+2023-01-24,Cake,Bakery,103,33,West
+2023-03-16,Cake,Bakery,162,8,West
+2023-03-25,Soap,Personal Care,303,35,West
+2023-01-25,Cereal,Grocery,398,18,West
+2023-03-07,Tea,Drinks,359,35,West
+2023-02-02,Cereal,Grocery,117,33,South
+2023-02-17,Shampoo,Personal Care,453,8,East
+2023-01-17,Bread,Bakery,177,33,West
+2023-03-27,Bread,Bakery,424,22,South
+2023-02-20,Soap,Personal Care,487,8,East
+2023-01-21,Tea,Drinks,335,33,West
+2023-03-10,Coffee,Drinks,366,48,East
+2023-02-04,Cake,Bakery,241,49,West
+2023-02-13,Coffee,Drinks,269,30,North
+2023-01-06,Shampoo,Personal Care,148,41,North
+2023-02-15,Milk,Dairy,230,31,East
+2023-03-04,Coffee,Drinks,302,21,West
+2023-02-02,Juice,Drinks,305,3,West
+2023-01-25,Tea,Drinks,272,3,West
+2023-02-01,Milk,Dairy,480,22,East
+2023-01-27,Tea,Drinks,435,26,North
+2023-02-02,Milk,Dairy,442,43,South
+2023-02-11,Juice,Drinks,296,26,East
+2023-01-25,Tea,Drinks,457,13,West
+2023-01-07,Chips,Snacks,362,36,North
+2023-03-06,Cake,Bakery,313,46,West
+2023-03-28,Bread,Bakery,192,28,South
+2023-02-01,Tea,Drinks,264,22,East
+2023-02-27,Cereal,Grocery,112,22,South
+2023-03-27,Chips,Snacks,354,42,South
+2023-03-01,Soap,Personal Care,150,33,West
+2023-03-01,Shampoo,Personal Care,157,5,East
+2023-01-06,Cake,Bakery,414,32,West
+2023-02-24,Bread,Bakery,473,16,North
+2023-01-30,Tea,Drinks,196,17,West
+2023-02-27,Bread,Bakery,488,26,North
+2023-03-03,Chips,Snacks,328,9,West
+2023-01-01,Shampoo,Personal Care,107,1,East
+2023-02-17,Tea,Drinks,138,40,North
+2023-01-01,Shampoo,Personal Care,321,39,West
+2023-01-22,Shampoo,Personal Care,398,3,West
+2023-01-16,Chips,Snacks,484,37,South
+2023-01-29,Cereal,Grocery,269,5,East
+2023-03-03,Coffee,Drinks,253,16,South
+2023-02-17,Chips,Snacks,390,39,West
+2023-01-23,Coffee,Drinks,299,10,South
+2023-02-03,Shampoo,Personal Care,229,31,South
+2023-01-19,Chips,Snacks,491,32,North
+2023-03-10,Milk,Dairy,53,16,West
+2023-01-02,Juice,Drinks,433,32,East
+2023-01-24,Cake,Bakery,445,35,West
+2023-02-02,Coffee,Drinks,494,43,North
+2023-03-06,Bread,Bakery,466,40,South
+2023-02-04,Tea,Drinks,264,17,South
+2023-01-26,Milk,Dairy,139,34,East
+2023-01-07,Cereal,Grocery,245,45,East
+2023-02-05,Milk,Dairy,266,21,North
+2023-02-05,Cereal,Grocery,443,37,North
+2023-03-05,Milk,Dairy,276,49,East
+2023-03-23,Cake,Bakery,145,24,East
+2023-01-12,Shampoo,Personal Care,418,13,East
+2023-01-30,Cereal,Grocery,322,49,South
+2023-03-30,Cake,Bakery,391,13,East
+2023-02-18,Bread,Bakery,149,12,North
+2023-01-19,Cereal,Grocery,125,9,East
+2023-03-24,Cake,Bakery,416,16,North
+2023-01-12,Shampoo,Personal Care,74,21,West
+2023-01-23,Shampoo,Personal Care,193,39,North
+2023-02-11,Shampoo,Personal Care,235,39,South
+2023-01-05,Chips,Snacks,212,23,North
+2023-03-17,Tea,Drinks,58,10,South
+2023-01-07,Coffee,Drinks,223,13,West
+2023-01-09,Chips,Snacks,483,27,South
+2023-01-05,Tea,Drinks,78,37,South
+2023-01-08,Bread,Bakery,414,1,South
+2023-01-17,Cake,Bakery,376,25,North
+2023-02-05,Cake,Bakery,119,31,East
+2023-02-08,Soap,Personal Care,140,10,South
+2023-02-08,Bread,Bakery,175,3,North
+2023-02-27,Tea,Drinks,197,28,West
+2023-02-08,Cereal,Grocery,50,3,North
+2023-03-04,Cereal,Grocery,418,25,West
+2023-02-07,Coffee,Drinks,166,6,South
+2023-03-21,Shampoo,Personal Care,423,21,East
+2023-02-05,Shampoo,Personal Care,276,19,West
+2023-01-18,Cereal,Grocery,96,41,North
+2023-02-23,Coffee,Drinks,423,3,West
+2023-02-26,Juice,Drinks,61,10,West
+2023-03-17,Milk,Dairy,457,28,North
+2023-02-05,Milk,Dairy,139,8,South
+2023-01-28,Tea,Drinks,269,37,North
+2023-03-05,Cake,Bakery,460,17,North
+2023-03-25,Coffee,Drinks,269,48,North
+2023-01-06,Bread,Bakery,131,5,East
+2023-03-07,Cereal,Grocery,59,30,South
+2023-02-02,Shampoo,Personal Care,423,1,South
+2023-01-11,Coffee,Drinks,390,26,East
+2023-03-27,Cereal,Grocery,364,27,North
+2023-01-01,Coffee,Drinks,454,48,East
+2023-03-22,Soap,Personal Care,246,31,North
+2023-01-03,Soap,Personal Care,486,23,North
+2023-02-06,Shampoo,Personal Care,251,10,East
+2023-03-26,Coffee,Drinks,127,9,South
+2023-02-20,Coffee,Drinks,222,13,West
+2023-02-01,Coffee,Drinks,83,28,East
+2023-02-08,Milk,Dairy,203,34,South
+2023-01-03,Soap,Personal Care,428,12,North
+2023-01-05,Soap,Personal Care,271,17,West
+2023-03-20,Juice,Drinks,278,21,South
+2023-03-16,Tea,Drinks,484,39,South
+2023-02-07,Tea,Drinks,355,34,South
+2023-03-04,Bread,Bakery,357,38,North
+2023-03-20,Milk,Dairy,79,42,East
+2023-01-05,Coffee,Drinks,334,4,South
+2023-01-17,Milk,Dairy,379,17,West
+2023-03-29,Cake,Bakery,118,34,South
+2023-03-07,Shampoo,Personal Care,254,43,East
+2023-01-23,Bread,Bakery,232,16,East
+2023-01-16,Soap,Personal Care,57,4,West
+2023-02-25,Cake,Bakery,330,3,West
+2023-01-27,Bread,Bakery,142,32,South
+2023-02-20,Chips,Snacks,452,21,North
+2023-02-11,Tea,Drinks,366,22,North
+2023-01-01,Soap,Personal Care,182,41,West
+2023-02-15,Chips,Snacks,83,49,South
+2023-02-14,Chips,Snacks,460,9,South
+2023-02-16,Cereal,Grocery,170,22,East
+2023-03-04,Milk,Dairy,97,17,South
+2023-01-01,Cake,Bakery,57,49,East
+2023-03-20,Cake,Bakery,352,22,South
+2023-01-28,Chips,Snacks,127,24,South
+2023-01-14,Chips,Snacks,236,7,East
+2023-01-18,Juice,Drinks,343,35,East
+2023-01-28,Cereal,Grocery,251,39,North
+2023-03-27,Coffee,Drinks,175,44,North
+2023-01-13,Coffee,Drinks,261,25,West
+2023-03-08,Chips,Snacks,282,45,South
+2023-03-27,Cake,Bakery,83,47,West
+2023-03-24,Milk,Dairy,91,41,North
+2023-02-21,Soap,Personal Care,331,34,East
+2023-02-28,Milk,Dairy,414,6,North
+2023-02-02,Cereal,Grocery,486,22,North
+2023-03-11,Soap,Personal Care,161,4,South
+2023-02-24,Milk,Dairy,186,3,East
+2023-02-05,Milk,Dairy,457,31,South
+2023-03-25,Tea,Drinks,269,11,West
+2023-02-20,Soap,Personal Care,111,2,East
+2023-01-26,Milk,Dairy,484,45,West
+2023-03-11,Shampoo,Personal Care,459,4,East
+2023-01-20,Cake,Bakery,162,12,East
+2023-03-31,Coffee,Drinks,191,38,North
+2023-03-18,Cake,Bakery,308,33,South
+2023-01-10,Tea,Drinks,310,23,South
+2023-01-13,Tea,Drinks,217,2,West
+2023-03-04,Coffee,Drinks,150,9,North
+2023-03-16,Cereal,Grocery,448,24,South
+2023-02-04,Juice,Drinks,143,31,North
+2023-03-03,Shampoo,Personal Care,493,44,South
+2023-03-16,Shampoo,Personal Care,186,34,West
+2023-02-04,Bread,Bakery,50,40,West
+2023-03-01,Soap,Personal Care,369,29,West
+2023-01-14,Cereal,Grocery,365,30,East
+2023-02-06,Shampoo,Personal Care,54,19,East
+2023-03-03,Chips,Snacks,181,25,North
+2023-03-30,Chips,Snacks,451,40,West
+2023-01-14,Juice,Drinks,337,38,North
+2023-03-04,Juice,Drinks,192,33,North
+2023-03-07,Coffee,Drinks,358,40,West
+2023-02-08,Bread,Bakery,484,6,South
+2023-01-07,Bread,Bakery,228,8,South
+2023-01-15,Cake,Bakery,160,29,North
+2023-01-27,Cake,Bakery,469,29,South
+2023-01-27,Cereal,Grocery,488,33,South
+2023-03-27,Cake,Bakery,371,10,North
+2023-02-07,Chips,Snacks,446,31,East
+2023-03-29,Cake,Bakery,485,15,North
+2023-01-05,Milk,Dairy,206,47,West
+2023-01-27,Tea,Drinks,144,36,West
+2023-02-12,Chips,Snacks,332,5,West
+2023-02-07,Chips,Snacks,183,8,East
+2023-02-15,Chips,Snacks,412,12,South
+2023-03-03,Milk,Dairy,259,25,North
+2023-03-01,Milk,Dairy,220,12,West
+2023-03-09,Cake,Bakery,182,37,West
+2023-01-31,Chips,Snacks,427,9,South
+2023-01-29,Bread,Bakery,345,41,South
+2023-01-01,Juice,Drinks,351,37,North
+2023-02-05,Chips,Snacks,231,23,North
+2023-03-04,Coffee,Drinks,487,40,East
+2023-02-16,Shampoo,Personal Care,358,9,South
+2023-02-26,Cake,Bakery,166,26,North
+2023-03-04,Bread,Bakery,293,25,South
+2023-01-02,Soap,Personal Care,440,18,East
+2023-01-17,Tea,Drinks,177,43,East
+2023-02-23,Bread,Bakery,201,25,East
+2023-03-11,Cake,Bakery,393,33,North
+2023-01-26,Soap,Personal Care,205,21,North
+2023-03-22,Juice,Drinks,133,41,North
+2023-03-27,Cake,Bakery,112,40,North
+2023-01-01,Juice,Drinks,273,13,South
+2023-02-20,Juice,Drinks,428,19,South
+2023-02-14,Coffee,Drinks,335,16,West
+2023-01-18,Bread,Bakery,306,14,East
+2023-03-07,Tea,Drinks,162,30,South
+2023-03-04,Bread,Bakery,181,1,West
+2023-01-03,Juice,Drinks,337,10,South
+2023-02-03,Bread,Bakery,429,33,East
+2023-02-01,Juice,Drinks,227,7,North
+2023-03-06,Milk,Dairy,362,3,West
+2023-02-28,Juice,Drinks,304,8,South
+2023-03-08,Cereal,Grocery,100,33,West
+2023-02-03,Milk,Dairy,340,32,West
+2023-02-15,Milk,Dairy,449,4,West
+2023-02-23,Shampoo,Personal Care,447,31,East
+2023-01-07,Tea,Drinks,379,7,North
+2023-03-26,Juice,Drinks,196,48,North
+2023-02-05,Bread,Bakery,334,18,South
+2023-02-16,Coffee,Drinks,246,20,East
+2023-01-02,Chips,Snacks,244,23,East
+2023-01-05,Cake,Bakery,342,38,West
+2023-02-22,Cereal,Grocery,477,35,West
+2023-03-27,Chips,Snacks,413,24,North
+2023-01-30,Chips,Snacks,169,46,East
+2023-03-22,Coffee,Drinks,63,9,West
+2023-01-25,Tea,Drinks,408,9,South
+2023-01-04,Soap,Personal Care,203,29,North
+2023-03-28,Tea,Drinks,342,11,South
+2023-03-26,Tea,Drinks,91,36,North
+2023-02-03,Soap,Personal Care,66,37,North
+2023-03-17,Soap,Personal Care,136,42,South
+2023-01-27,Shampoo,Personal Care,362,31,South
+2023-01-12,Milk,Dairy,286,7,South
+2023-01-26,Coffee,Drinks,239,46,West
+2023-02-23,Tea,Drinks,412,1,East
+2023-02-05,Shampoo,Personal Care,420,26,North
+2023-01-11,Shampoo,Personal Care,345,11,West
+2023-02-28,Cake,Bakery,344,40,East
+2023-02-24,Soap,Personal Care,160,24,South
+2023-03-10,Soap,Personal Care,361,33,South
+2023-01-20,Cake,Bakery,276,43,North
+2023-03-14,Tea,Drinks,203,2,North
+2023-03-14,Cereal,Grocery,345,17,North
+2023-03-02,Cereal,Grocery,476,40,South
+2023-02-08,Cereal,Grocery,340,3,South
+2023-02-13,Shampoo,Personal Care,484,30,South
+2023-01-12,Tea,Drinks,324,37,West
+2023-03-02,Coffee,Drinks,66,10,North
+2023-02-16,Juice,Drinks,61,16,West
+2023-01-08,Bread,Bakery,198,17,East
+2023-03-21,Shampoo,Personal Care,247,8,North
+2023-03-30,Tea,Drinks,317,15,East
+2023-01-26,Chips,Snacks,96,32,South
+2023-01-17,Juice,Drinks,456,26,North
+2023-01-07,Soap,Personal Care,319,15,North
+2023-01-09,Juice,Drinks,420,48,West
+2023-02-28,Tea,Drinks,264,29,South
+2023-02-08,Cake,Bakery,451,42,East
+2023-01-14,Coffee,Drinks,208,24,East
+2023-01-03,Tea,Drinks,342,43,West
+2023-02-24,Chips,Snacks,413,39,East
+2023-01-04,Milk,Dairy,398,22,North
+2023-02-02,Tea,Drinks,65,45,South
+2023-02-24,Tea,Drinks,276,42,South
+2023-01-13,Juice,Drinks,190,18,West
+2023-02-08,Bread,Bakery,351,29,South
+2023-03-03,Coffee,Drinks,294,44,North
+2023-01-10,Milk,Dairy,463,25,East
+2023-03-25,Juice,Drinks,438,1,South
+2023-01-03,Coffee,Drinks,478,14,West
+2023-03-09,Tea,Drinks,195,37,North
+2023-02-22,Coffee,Drinks,122,15,North
+2023-03-29,Cereal,Grocery,189,37,North
+2023-02-12,Shampoo,Personal Care,429,6,East
+2023-03-04,Milk,Dairy,351,24,East
+2023-01-25,Tea,Drinks,248,4,East
+2023-01-20,Milk,Dairy,398,45,South
+2023-02-26,Chips,Snacks,267,41,North
+2023-01-03,Chips,Snacks,425,6,North
+2023-02-23,Shampoo,Personal Care,96,23,North
+2023-01-20,Cereal,Grocery,427,49,North
+2023-02-04,Chips,Snacks,227,18,South
+2023-03-29,Coffee,Drinks,52,32,East
+2023-01-13,Soap,Personal Care,169,47,North
+2023-03-09,Cereal,Grocery,447,37,South
+2023-02-25,Cereal,Grocery,372,28,North
+2023-03-08,Cereal,Grocery,458,34,West
+2023-01-09,Chips,Snacks,89,25,North
+2023-03-29,Tea,Drinks,173,15,South
+2023-01-05,Milk,Dairy,225,26,South
+2023-02-06,Soap,Personal Care,365,48,North
+2023-03-18,Shampoo,Personal Care,130,40,North
+2023-02-27,Bread,Bakery,372,40,South
+2023-03-18,Milk,Dairy,286,33,South
+2023-01-19,Milk,Dairy,385,40,West
+2023-02-28,Coffee,Drinks,108,48,North
+2023-02-22,Cereal,Grocery,219,36,East
+2023-03-01,Soap,Personal Care,56,5,East
+2023-01-31,Chips,Snacks,72,42,South
+2023-01-30,Shampoo,Personal Care,88,31,South
+2023-01-02,Cake,Bakery,255,13,North
+2023-03-07,Juice,Drinks,273,13,South
+2023-01-17,Coffee,Drinks,409,31,South
+2023-02-04,Milk,Dairy,375,19,South
+2023-03-15,Juice,Drinks,282,32,South
+2023-01-22,Shampoo,Personal Care,245,20,West
+2023-03-09,Cake,Bakery,268,17,West
+2023-01-17,Soap,Personal Care,443,1,South
+2023-03-23,Chips,Snacks,355,14,West
+2023-02-21,Cake,Bakery,430,12,East
+2023-01-06,Coffee,Drinks,416,15,West
+2023-03-16,Bread,Bakery,107,23,South
+2023-02-15,Tea,Drinks,275,29,West
+2023-01-13,Coffee,Drinks,88,15,East
+2023-02-01,Cake,Bakery,179,47,South
+2023-01-22,Cake,Bakery,76,3,North
+2023-01-21,Milk,Dairy,352,16,North
+2023-01-06,Cake,Bakery,196,5,East
+2023-02-27,Coffee,Drinks,429,38,East
+2023-03-02,Tea,Drinks,212,49,North
+2023-01-12,Milk,Dairy,323,15,West
+2023-03-01,Milk,Dairy,479,25,North
+2023-01-08,Shampoo,Personal Care,128,27,South
+2023-03-12,Tea,Drinks,436,29,West
+2023-01-24,Shampoo,Personal Care,365,3,West
+2023-03-19,Cereal,Grocery,322,44,West
+2023-01-09,Cake,Bakery,215,48,North
+2023-01-02,Soap,Personal Care,393,8,East
+2023-03-13,Coffee,Drinks,326,18,South
+2023-02-07,Tea,Drinks,81,11,North
+2023-02-02,Cereal,Grocery,151,41,West
+2023-02-20,Soap,Personal Care,137,41,North
+2023-02-15,Cereal,Grocery,209,15,West
+2023-03-27,Soap,Personal Care,141,20,North
+2023-02-09,Chips,Snacks,465,33,South
+2023-02-02,Coffee,Drinks,282,13,South
+2023-03-18,Coffee,Drinks,165,26,South
+2023-03-07,Juice,Drinks,215,39,South
+2023-01-15,Chips,Snacks,155,44,North
+2023-03-16,Milk,Dairy,366,3,East
+2023-01-09,Soap,Personal Care,311,9,East
+2023-03-17,Cereal,Grocery,313,8,South
+2023-03-03,Cake,Bakery,160,7,East
+2023-03-21,Cake,Bakery,437,6,South
+2023-01-26,Soap,Personal Care,432,3,East
+2023-03-01,Cereal,Grocery,411,14,East
+2023-01-12,Tea,Drinks,136,12,North
+2023-02-14,Cereal,Grocery,292,19,East
+2023-02-14,Cake,Bakery,441,29,East
+2023-02-24,Shampoo,Personal Care,337,44,South
+2023-01-18,Soap,Personal Care,260,22,North
+2023-02-28,Milk,Dairy,180,28,South
+2023-02-04,Bread,Bakery,494,29,South
+2023-01-07,Coffee,Drinks,381,49,South
+2023-01-31,Shampoo,Personal Care,491,24,West
+2023-01-04,Shampoo,Personal Care,269,44,South
+2023-03-01,Cake,Bakery,201,49,East
+2023-02-05,Cereal,Grocery,299,34,West
+2023-03-07,Cake,Bakery,384,34,West
+2023-02-08,Soap,Personal Care,475,12,East
+2023-02-09,Tea,Drinks,70,15,North
+2023-01-26,Bread,Bakery,57,36,West
+2023-02-11,Juice,Drinks,477,14,South
+2023-02-06,Tea,Drinks,374,38,North
+2023-03-03,Cereal,Grocery,365,47,South
+2023-03-30,Milk,Dairy,133,2,East
+2023-01-17,Soap,Personal Care,428,25,North
+2023-02-04,Tea,Drinks,278,5,East
+2023-02-09,Coffee,Drinks,489,36,North
+2023-02-16,Juice,Drinks,336,11,South
+2023-01-14,Bread,Bakery,129,10,North
+2023-03-17,Chips,Snacks,399,41,North
+2023-01-20,Shampoo,Personal Care,313,43,West
+2023-02-26,Coffee,Drinks,113,20,West
+2023-02-06,Cereal,Grocery,224,37,West
+2023-02-18,Shampoo,Personal Care,169,44,West
+2023-03-02,Soap,Personal Care,453,14,South
+2023-02-06,Cereal,Grocery,69,26,North
+2023-02-04,Coffee,Drinks,247,37,North
+2023-02-02,Shampoo,Personal Care,228,14,West
+2023-01-20,Chips,Snacks,230,24,East
+2023-03-30,Tea,Drinks,355,29,North
+2023-02-25,Juice,Drinks,476,23,West
+2023-03-25,Soap,Personal Care,200,45,West
+2023-01-08,Tea,Drinks,390,1,East
+2023-01-29,Milk,Dairy,401,38,North
+2023-02-16,Soap,Personal Care,339,1,East
+2023-03-31,Juice,Drinks,476,10,South
+2023-03-23,Tea,Drinks,194,26,West
+2023-03-17,Milk,Dairy,377,25,South
+2023-02-02,Cake,Bakery,50,19,East
+2023-02-17,Shampoo,Personal Care,118,41,South
+2023-03-05,Tea,Drinks,112,9,North
+2023-03-30,Cereal,Grocery,225,13,North
+2023-03-18,Shampoo,Personal Care,208,41,East
+2023-01-04,Cake,Bakery,151,19,South
+2023-03-23,Tea,Drinks,446,41,East
+2023-03-16,Bread,Bakery,178,24,South
+2023-03-12,Soap,Personal Care,138,21,East
+2023-03-17,Coffee,Drinks,248,15,North
+2023-03-01,Bread,Bakery,142,25,North
+2023-02-04,Coffee,Drinks,477,38,South
+2023-03-13,Bread,Bakery,159,14,South
+2023-02-15,Tea,Drinks,314,3,North
+2023-03-13,Chips,Snacks,353,2,South
+2023-01-26,Shampoo,Personal Care,202,12,North
+2023-02-17,Tea,Drinks,342,15,West
+2023-01-15,Cake,Bakery,92,48,East
+2023-02-15,Soap,Personal Care,413,43,North
+2023-01-23,Shampoo,Personal Care,156,16,East
+2023-01-15,Shampoo,Personal Care,330,36,East
+2023-01-15,Bread,Bakery,373,21,North
+2023-01-19,Soap,Personal Care,339,14,North
+2023-02-21,Cake,Bakery,76,29,East
+2023-01-08,Bread,Bakery,193,42,West
+2023-01-02,Tea,Drinks,482,13,West
+2023-03-30,Chips,Snacks,399,11,East
+2023-02-08,Chips,Snacks,446,31,East
+2023-02-11,Milk,Dairy,494,42,West
+2023-03-25,Cake,Bakery,423,7,South
+2023-02-13,Coffee,Drinks,425,45,South
+2023-01-22,Juice,Drinks,167,21,South
+2023-01-26,Cereal,Grocery,58,15,South
+2023-02-11,Milk,Dairy,121,24,West
+2023-01-26,Coffee,Drinks,396,37,West
+2023-01-24,Tea,Drinks,68,36,West
+2023-03-15,Juice,Drinks,394,18,East
+2023-03-15,Cake,Bakery,488,5,East
+2023-02-02,Coffee,Drinks,168,21,North
+2023-02-17,Soap,Personal Care,342,15,East
+2023-02-01,Juice,Drinks,60,10,North
+2023-01-25,Cereal,Grocery,307,35,East
+2023-01-18,Shampoo,Personal Care,372,42,South
+2023-02-10,Juice,Drinks,290,11,East
+2023-03-01,Milk,Dairy,351,19,West
+2023-02-11,Chips,Snacks,337,39,North
+2023-02-05,Cake,Bakery,436,9,West
+2023-03-11,Coffee,Drinks,474,39,West
+2023-03-01,Coffee,Drinks,179,5,West
+2023-01-08,Shampoo,Personal Care,279,8,South
+2023-02-13,Bread,Bakery,430,3,South
