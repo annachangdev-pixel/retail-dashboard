@@ -6,7 +6,7 @@
 In the retail industry, timely access to sales data is crucial for inventory management and marketing strategies. This project aims to solve the problem of "data fragmentation" by transforming raw sales records into an intuitive, interactive decision-making tool.
 
 ## 📸 Preview
-![Dashboard Screenshot](path/to/your/screenshot.png)
+![Dashboard Screenshot](16.29 23-03-2026的影像.jpeg)
 *(Tip: Replace this with an actual screenshot of your dashboard to make it pop!)*
 
 ## 🧩 Key Features
