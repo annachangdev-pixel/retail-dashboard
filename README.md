@@ -7,7 +7,6 @@ In the retail industry, timely access to sales data is crucial for inventory man
 
 ## 📸 Preview
 ![Dashboard Screenshot](dashboard_screenshot.jpeg)
-*(Tip: Replace this with an actual screenshot of your dashboard to make it pop!)*
 
 ## 🧩 Key Features
 - **Dynamic KPIs**: Real-time display of Total Revenue, Order Volume, and Average Order Value (AOV).
